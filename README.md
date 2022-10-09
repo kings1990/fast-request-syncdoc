@@ -8,7 +8,10 @@
 
 ### Request headers
 
-<table><thead><tr><th>Header Name</th><th>Header Value</th><th data-type="checkbox"></th></tr></thead><tbody><tr><td>Authorization</td><td>Bearer xxxx</td><td>true</td></tr></tbody></table>
+|Header Name| Header Value| Required
+|---------|------|-----|
+|a|1|true|
+|b|2|true|
 
 ### Parameters
 
