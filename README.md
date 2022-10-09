@@ -10,8 +10,8 @@
 
 |Required|Header Name| Header Value|
 |---------|------|-----|
-|true||a|1|
-|false|b|2|
+|- [ ] &nbsp;||a|1|
+|- [x] &nbsp;|b|2|
 
 ### Parameters
 
