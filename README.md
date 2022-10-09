@@ -8,10 +8,10 @@
 
 ### Request headers
 
-|Header Name| Header Value| Required
+|Required|Header Name| Header Value|
 |---------|------|-----|
-|a|1|true|
-|b|2|true|
+|true||a|1|
+|false|b|2|
 
 ### Parameters
 
