@@ -23,7 +23,7 @@
 
 |Required| Parameter | Type | Value | Description |
 |---------|---------|------|------|------------|
-|true|bookName|String|java||
+|true|bookName|String|java1||
 
 
 ##### Body parameters
