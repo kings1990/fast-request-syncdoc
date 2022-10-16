@@ -44,9 +44,9 @@
 ##### Form URL-Encoded
 |Required| Parameter | Type | Value | Description |
 |---------|---------|------|------|------------|
-|false|id|Number|1|book id|
-|false|name|String|Effective Java|book name|
-|false|createTime|String|2001-10-11 09:17:16|book name|
+|true|id|Number||book id|
+|true|name|String|Effective Java|book name|
+|true|createTime|String|2001-10-11 09:17:16|book name|
 |true|description|String|Skills of java|book description|
 
 
