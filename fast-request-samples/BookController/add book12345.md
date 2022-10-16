@@ -56,7 +56,12 @@
 
 ## Response Example
 ```
-
+{
+  "id": 1,
+  "name": "Effective Java",
+  "createTime": "2001-10-11T09:17:16",
+  "description": "Skills of java"
+}
 ```
 
 
