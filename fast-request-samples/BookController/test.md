@@ -1,5 +1,5 @@
 # test
-> URL: http://localhost:8081/book/test2?id=100
+> URL: http://localhost:8081/book/test2?id=1000
 >
 > Origin Url: http://localhost:8081/book/test2
 >
@@ -23,7 +23,7 @@
 
 |Required| Parameter | Type | Value | Description |
 |---------|---------|------|------|------------|
-|true|id|Number|100|主键id|
+|true|id|Number|1000|主键id|
 
 
 ##### Body parameters
