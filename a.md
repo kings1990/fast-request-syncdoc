@@ -1,5 +1,5 @@
 # New Request
-> URL: http://localhost:8081/book/add
+> URL: http://localhost:8081http://a.com
 >
 > Origin Url: http://localhost:8081/book/add
 >
@@ -44,7 +44,7 @@
 ##### Form URL-Encoded
 |Required| Parameter | Type | Value | Description |
 |---------|---------|------|------|------------|
-|true|id|Number||book id|
+|true|id|Number|1|book id|
 |true|name|String|Effective Java|book name|
 |true|createTime|String|2001-10-11 09:17:16|book name|
 |true|description|String|Skills of java|book description|
