@@ -1,6 +1,6 @@
 # book detail by id
 
-> URL: http://localhost:8081/book/1
+> URL: http://localhost:8081/book/10
 >
 > Origin Url: http://localhost:8081/book/{id}
 >
@@ -18,7 +18,7 @@
 
 | Parameter | Type | Value | Description |
 |---------|------|------|------------|
-|id|Number|1| |
+|id|Number|10| |
 
 
 ##### URL parameters
@@ -58,9 +58,9 @@
 
 ```
 {
-  "id": 1,
+  "id": 10,
   "name": "Effective java",
-  "description": null
+  "description": "Some skills of java"
 }
 ```
 
