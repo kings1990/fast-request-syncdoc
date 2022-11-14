@@ -60,7 +60,7 @@
 {
   "id": 10,
   "name": "Effective java",
-  "description": null
+  "description": "Some skills of java"
 }
 ```
 
