@@ -1,6 +1,6 @@
 # book detail by id
 
-> URL: http://localhost:8081/book/10
+> URL: http://localhost:8081/book/3
 >
 > Origin Url: http://localhost:8081/book/{id}
 >
@@ -11,6 +11,7 @@
 
 |Header Name| Header Value|
 |---------|------|
+|token|2023-05-17 21:59:06|
 
 ### Parameters
 
@@ -18,7 +19,7 @@
 
 | Parameter | Type | Value | Description |
 |---------|------|------|------------|
-|id|Number|10| |
+|id|Number|3|xxxid|
 
 
 ##### URL parameters
@@ -38,7 +39,7 @@
 ###### JSON document
 
 ```
-
+null
 ```
 
 
@@ -58,18 +59,20 @@
 
 ```
 {
-  "id": 10,
-  "name": "Effective java",
-  "description": "Some skills of java"
+  "id": 3,
+  "bookName": null,
+  "description": "Some skills of java",
+  "createTime": null
 }
 ```
 
 ##### Response document
 ```
 {
+	"createTime":"No comment,Type =String",
+	"description":"book description",
 	"id":"book id",
-	"name":"book name",
-	"description":"book description"
+	"bookName":"book name"
 }
 ```
 
